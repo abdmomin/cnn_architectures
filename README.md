@@ -1,6 +1,6 @@
 # CNN Architectures
 
-Implement popular CNN architectures from research paper:
+Replicate popular CNN architectures from research paper:
 * Inception
 * Lenet
 * Resnet
